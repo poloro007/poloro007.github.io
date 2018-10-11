@@ -5,11 +5,18 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
+  text-align: center;
   
 }
 
 h1 {
   
   padding: 20px 0px 10px 0px;
+  
+}
+
+a{
+  color: #69CBBB;
+  text-decoration: none;
   
 }
