@@ -1,5 +1,5 @@
 body {
-
+  background-color: black;
   margin: 30px auto;
   max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-
+  color: #9833FF;
   padding: 20px 0px 10px 0px;
 
 }
@@ -19,4 +19,9 @@ a{
   color: #69CBBB;
   text-decoration: none;
 
+}
+
+p{
+  color: white;
+  
 }
